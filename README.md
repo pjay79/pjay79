@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![pjay79's github stats](https://imwnk-github-stats.vercel.app/api?username=pjay79&show_icons=true&?theme=dark)](https://github.com/pjay79)
 
 - 🔭 I’m currently working on a React web app with Node.js backend
 - 🌱 I’m currently learning CyberSecurity and Penetration Testing
