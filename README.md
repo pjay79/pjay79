@@ -11,7 +11,7 @@ I'm a Full Stack Developer working with Javascript, React, React Native, Node.js
 - 📫 How to reach me: Email, Twitter DM
 - ⚡ Fun fact: I'm a 2nd Career Dev after 15 years in Healthcare
 
-### Recent Experience
+### Recent Experience:
 
 ### Ward 6 Australia: May 2020 - present
 
