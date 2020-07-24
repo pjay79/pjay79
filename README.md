@@ -9,7 +9,7 @@ I'm a Full Stack Developer working with Javascript, React, React Native, Node.js
 - 👯 I’m looking to collaborate on React Native mobile apps
 - 💬 Ask me about AWS Cloud Certifications
 - 📫 How to reach me: Email, Twitter DM
-- ⚡ Fun fact: 2nd Career Dev
+- ⚡ Fun fact: I'm a 2nd Career Dev after 15 years in Healthcare
 
 ### Recent Experience
 
