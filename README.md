@@ -20,3 +20,14 @@ Ward6 is an independent healthcare communications agency working with NGOs, reta
 ### MedApps: Apr 2019 - March 2019
 
 Worked on med app, a web dashboard and mobile app for accessing clinical and hospital guidelines, communicating with clinicians, and facilitating education and training. Worked as a Frontend Developer contributing to new features and bug fixes. Primarily using React, Redux, React Native. Also led development of Emergency Protocols React Native app for the Agency for Clinical Innovation. Experienced with mobile app production workflow with CI/CD using Circle CI, Fastlane, AppCenter, and deployments to App Store and Google Play.
+
+### Certifications:
+
+AWS Certified Solutions Architect  
+https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2020-03-13&ci=AWS01197977
+
+AWS Certified SysOps Administrator  
+https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2020-02-21&ci=AWS01197977
+
+AWS Certified Developer  
+https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2020-01-17&ci=AWS01197977
