@@ -31,3 +31,11 @@ https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2020-02-21&ci=AWS
 
 AWS Certified Developer  
 https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2020-01-17&ci=AWS01197977
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pjay79&repo=telehealthapp)](https://github.com/pjay79/telehealthapp)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pjay79&repo=serverlessnodejsexpresspostgresql)](https://github.com/pjay79/serverlessnodejsexpresspostgresql)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pjay79&repo=serverlessnodejsexpressdynamodb)](https://github.com/pjay79/serverlessnodejsexpressdynamodb)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pjay79&repo=nodeexpressdocker)](https://github.com/pjay79/nodeexpressdocker)
