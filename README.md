@@ -13,7 +13,7 @@ I'm a Full Stack Developer working with Javascript, React, React Native, Node.js
 
 ### Recent Experience:
 
-### Ward 6 Australia: May 2020 - present
+### Ward6 Australia: May 2020 - present
 
 Ward6 is an independent healthcare communications agency working with NGOs, retailers, pharmaceutical and biotechnology companies. Worked as the lead Full Stack Developer on a short-term contract. Built a React web app called Wellbean for global biotechnology company Amgen, and built the backend api with Node.js/Express and Docker. Utilized AWS cloud infrastructure (S3, CloudFront, Lambda@Edge, DynamboDb, Cognito, ECS Fargate & ECR, SSM, SES, ACM & WAF). Successfully passed Penetration Testing conducted by 3rd party.
 
