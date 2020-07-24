@@ -10,3 +10,13 @@
 - 💬 Ask me about AWS Cloud Certifications
 - 📫 How to reach me: Email, Twitter DM
 - ⚡ Fun fact: 2nd Career Dev
+
+### Recent Experience
+
+### Ward 6 Australia: May 2020 - present
+
+Ward6 is an independent healthcare communications agency working with NGOs, retailers, pharmaceutical and biotechnology companies. Worked as the lead Full Stack Developer on a short-term contract. Built a React web app called Wellbean for global biotechnology company Amgen, and built the backend api with Node.js/Express and Docker. Utilized AWS cloud infrastructure (S3, CloudFront, Lambda@Edge, DynamboDb, Cognito, ECS Fargate & ECR, SSM, SES, ACM & WAF). Successfully passed Penetration Testing conducted by 3rd party.
+
+### MedApps: Apr 2019 - March 2019
+
+Worked on med app, a web dashboard and mobile app for accessing clinical and hospital guidelines, communicating with clinicians, and facilitating education and training. Worked as a Frontend Developer contributing to new features and bug fixes. Primarily using React, Redux, React Native. Also led development of Emergency Protocols React Native app for the Agency for Clinical Innovation. Experienced with mobile app production workflow with CI/CD using Circle CI, Fastlane, AppCenter, and deployments to App Store and Google Play.
