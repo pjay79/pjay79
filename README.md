@@ -10,6 +10,7 @@ I'm a Full Stack Developer working with Javascript, React, React Native, Node.js
 - 💬 Ask me about AWS Cloud Certifications
 - 📫 How to reach me: Email, Twitter DM
 - ⚡ Fun fact: I'm a 2nd Career Dev after 15 years in Healthcare
+- :hammer: Side project: my first npm package - https://www.npmjs.com/package/the-pharmacist-delivers
 
 ### Recent Experience:
 
