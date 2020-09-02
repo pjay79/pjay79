@@ -10,7 +10,7 @@ Software Developer building web and mobile applications across the full stack. E
 - 🌱 I’m currently learning CyberSecurity and Penetration Testing
 - 👯 I’m looking to collaborate on React Native mobile apps
 - 💬 Ask me about AWS Cloud Certifications
-- 📫 How to reach me: Email, Twitter DM
+- 📫 How to reach me: Email, Twitter DM, LinkedIn
 - ⚡ Fun fact: I'm a 2nd Career Dev after 15 years in Healthcare
 - :hammer: Side project: my first npm package - https://www.npmjs.com/package/the-pharmacist-delivers
 
