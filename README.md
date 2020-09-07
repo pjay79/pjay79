@@ -2,7 +2,11 @@
 
 ### Bio
 
-Software Developer building web and mobile applications across the full stack. Experienced as a lead developer on multiple projects whilst working in startup and agency environments. Interested in cyber-security, cloud computing, and solution architecture. Domain experience in healthcare for 15 years as a medical doctor and now working in technology with innovative digital health products and companies.
+Software Developer building Web and Mobile applications across the Full Stack. 
+
+Experienced as a Lead Developer on multiple projects whilst working in Startup and Agency environments. 
+
+Interested in Cyber-Security, Cloud Computing, and Solution Architecture.
 
 ![pjay79's github stats](https://github-readme-stats.vercel.app/api?username=pjay79&show_icons=true&theme=cobalt)
 
