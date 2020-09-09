@@ -2,11 +2,11 @@
 
 ### Bio
 
-Software Developer building Web and Mobile applications across the Full Stack. 
+Software Developer building Web and Mobile applications across the Full Stack. Specializing in JavaScript, React, React Native, Node, and AWS. 
 
 Experienced as a Lead Developer on multiple projects whilst working in Startup and Agency environments. 
 
-Interested in Cyber-Security, Cloud Computing, and Solution Architecture.
+Interested in Cyber-Security, Cloud Computing, DevOps, and Solution Architecture.
 
 ![pjay79's github stats](https://github-readme-stats.vercel.app/api?username=pjay79&show_icons=true&theme=cobalt)
 
