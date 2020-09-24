@@ -6,7 +6,7 @@ Software Developer building Web and Mobile applications across the Full Stack. S
 
 Experienced as a Lead Developer on multiple projects whilst working in Startup and Agency environments. 
 
-Interested in Cyber-Security, Cloud Computing, DevOps, and Solution Architecture.
+Interested in Digital Health, Fintech, Cyber-Security, Cloud Computing, DevOps, and Solution Architecture.
 
 ![pjay79's github stats](https://github-readme-stats.vercel.app/api?username=pjay79&show_icons=true&theme=cobalt)
 
