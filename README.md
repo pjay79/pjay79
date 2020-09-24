@@ -21,11 +21,25 @@ Interested in Digital Health, Fintech, Cyber-Security, Cloud Computing, DevOps, 
 
 ### Ward6 Australia: May 2020 - present
 
-Ward6 is an independent healthcare communications agency working with NGOs, retailers, pharmaceutical and biotechnology companies. Worked as the lead Full Stack Developer on a short-term contract. Built a React web app called Wellbean for global biotechnology company Amgen, and built the backend api with Node.js/Express and Docker. Utilized AWS cloud infrastructure (S3, CloudFront, Lambda@Edge, DynamboDb, Cognito, ECS Fargate & ECR, SSM, SES, ACM & WAF). Successfully passed Penetration Testing conducted by 3rd party.
+Ward6 is an independent healthcare communications agency working with NGOs, retailers, pharmaceutical and biotechnology companies.
+
+Worked as the Lead Full Stack Developer on a short-term contract. Built a React web app called Wellbean for global biotechnology company Amgen, including the backend API with Node.js/Express and Docker.
+
+Utilized AWS cloud infrastructure (S3, CloudFront, Lambda@Edge, DynamboDb, Cognito, Application Load Balancer, ECS Fargate & ECR, SSM, SES, ACM & WAF). Created Node.js based command line tools to improve developer velocity.
+
+Responsible for delivering the project successfully to a deadline and ensuring that security requirements were met. Engaged in client meetings with Amgen to communicate progress on deliverables and advise on solution architecture. Assisted Ward6 in scoping out new features.
+
+Completed developer documentation on how to setup environments, deploy, and maintain the entire project. Documented all remediations completed as part of Amgen's penetration testing report and findings. Assisted with onboarding of new developers.
 
 ### MedApps: Apr 2019 - March 2019
 
-Worked on med app, a web dashboard and mobile app for accessing clinical and hospital guidelines, communicating with clinicians, and facilitating education and training. Worked as a Frontend Developer contributing to new features and bug fixes. Primarily using React, Redux, React Native. Also led development of Emergency Protocols React Native app for the Agency for Clinical Innovation. Experienced with mobile app production workflow with CI/CD using Circle CI, Fastlane, AppCenter, and deployments to App Store and Google Play.
+Med app is a web dashboard and mobile app for accessing clinical and hospital guidelines, communicating with clinicians, and facilitating education and training.
+
+Worked as a Frontend Developer contributing to new features and bug fixes. Developed medical calculators as enhancements to the existing product. Primarily utilised Javascript, React, Redux, and React Native.
+
+Also worked as the Lead React Native developer for the Emergency Protocols mobile app built for the NSW Agency for Clinical Innovation. Built using Expo and deployed to App Store and Google Play Store.
+
+Participated in quarterly sprint planning with development team. Attended monthly all hands meetings with company Founder, CEO, and Operations team. Provided feedback on product direction from a clinical perspective.
 
 ### Certifications:
 
