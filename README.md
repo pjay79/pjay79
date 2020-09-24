@@ -19,7 +19,7 @@ Interested in Digital Health, Fintech, Cyber-Security, Cloud Computing, DevOps, 
 
 ### Recent Experience:
 
-### Ward6 Australia: May 2020 - present
+### Ward6 Australia: May 2020 - October 2020
 
 Ward6 is an independent healthcare communications agency working with NGOs, retailers, pharmaceutical and biotechnology companies.
 
