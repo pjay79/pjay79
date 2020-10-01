@@ -23,7 +23,7 @@ Interested in Digital Health, Fintech, Cyber-Security, Cloud Computing, DevOps, 
 
 Ward6 is an independent healthcare communications agency working with NGOs, retailers, pharmaceutical and biotechnology companies.
 
-Worked as the Lead Full Stack Developer on a short-term contract. Built a React web app called Wellbean for global biotechnology company Amgen, including the backend API with Node.js/Express and Docker.
+Worked as the Lead Full Stack Developer. Built a React web app called Wellbean for global biotechnology company Amgen, including the backend API with Node.js/Express and Docker.
 
 Utilized AWS cloud infrastructure (S3, CloudFront, Signed Cookies, Lambda@Edge, DynamboDb, Cognito, Application Load Balancer, ECS Fargate, ECR, SSM, SES, ACM & WAF). Created Node.js based command line tools to improve developer velocity.
 
