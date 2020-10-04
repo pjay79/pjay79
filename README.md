@@ -44,10 +44,10 @@ Participated in quarterly sprint planning with development team. Attended monthl
 ### Certifications:
 
 AWS Certified Solutions Architect  
-https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2020-03-13&ci=AWS01197977
+https://www.youracclaim.com/badges/e5d6399f-03d4-4fc1-91b7-c00e93922bf2/public_url
 
 AWS Certified SysOps Administrator  
-https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2020-02-21&ci=AWS01197977
+https://www.youracclaim.com/badges/aea7db59-b477-4b47-8c67-058f8f62b1a6/public_url
 
 AWS Certified Developer  
-https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2020-01-17&ci=AWS01197977
+https://www.youracclaim.com/badges/b77d9f6f-2211-456f-a6f5-065bc06032d2/public_url
