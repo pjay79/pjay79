@@ -19,7 +19,7 @@ Interested in Digital Health, Fintech, Cyber-Security, Cloud Computing, DevOps, 
 
 ### Recent Experience:
 
-### Payrught: October 2020 - Present
+### Payright: October 2020 - Present
 
 Senior Full Stack Developer
 
