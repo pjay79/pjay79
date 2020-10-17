@@ -8,6 +8,8 @@ Experienced as a Lead Developer on multiple projects whilst working in Startup a
 
 Interested in Digital Health, Fintech, Cyber-Security, Cloud Computing, DevOps, and Solution Architecture.
 
+AWS Community Builder at Amazon Web Services.
+
 ![pjay79's github stats](https://github-readme-stats.vercel.app/api?username=pjay79&show_icons=true&theme=cobalt)
 
 - 🔭 I’m currently working on a React web app with a Node.js backend
