@@ -21,9 +21,9 @@ Interested in Digital Health, Fintech, Cyber-Security, Cloud Computing, DevOps, 
 
 ### Payright: October 2020 - Present
 
-Payright is an Australian payment plan provider developed for merchants to accelerate return-on-effort and for making things more affordable to consumers, by spreading the cost of purchases over time. Payright provides merchants a buy-now, pay later flexible payment option to offer their customers, intended for bigger ticket items that are more considered purchases rather than smaller impulse-driven buys.
+Payright is an Australian payment plan provider developed for merchants to accelerate return-on-effort and for making things more affordable to consumers, by spreading the cost of purchases over time. 
 
-Senior Full Stack Developer working on the emerging consumer technology platforms using TypeScript, React, React Native, Node, and AWS.
+Senior Full Stack Developer working on the emerging consumer technology platforms using TypeScript, React, Node, and AWS.
 
 ### Ward6 Australia: May 2020 - October 2020
 
