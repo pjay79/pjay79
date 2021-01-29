@@ -29,7 +29,7 @@ Build new e-commerce React web app, involved in setup of Cloudfront distribution
 
 Completed build of the Payright Developer Portal, a React + Next.js web app deployed on Vercel. This included passwordless authentication using Firebase, and handling of API tokens for development and production environments across multiple geographic regions.
 
-Lead Developer on Payright pilot web app. Engaged with multiple company stakeholders including Project Manager, Head of Partnerships, Head of Marketing, Senior Finance Manager, and Compliance/Legal Officers. Liased with 3rd party vendor to obtain access to external API and completed associated certification for API access. Project delivered without delay on planned launch date.
+Lead Full Stack Developer on Payright pilot web app. Engaged with multiple company stakeholders including Project Manager, Head of Partnerships, Head of Marketing, Senior Finance Manager, and Compliance/Legal Officers. Liased with 3rd party vendor to obtain access to external API and completed associated certification for API access. Project delivered without delay on planned launch date.
 
 Completed audit and review of AWS architecture and provided recommendations on following best practices. Setup AWS Client VPN with VPC peering and developer access using authentication keys. 
 
