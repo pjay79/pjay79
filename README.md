@@ -2,7 +2,7 @@
 
 ### Bio
 
-Software Developer building Web and Mobile applications across the Full Stack. Specializing in JavaScript, React, React Native, Node, and AWS. AWS Community Builder at Amazon Web Services.
+Software Developer building Web and Mobile applications across the Full Stack. Specializing in JavaScript, TypeScript, React, React Native, Node, and AWS. AWS Community Builder at Amazon Web Services.
 
 Experienced as a Lead Developer on multiple projects whilst working in Startup and Agency environments. 
 
