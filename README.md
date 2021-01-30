@@ -25,7 +25,7 @@ Payright is an Australian payment plan provider developed for merchants to accel
 
 Senior Full Stack Developer working on new consumer technology platforms using TypeScript, React, Node, and AWS.
 
-Build new e-commerce React web app, involved in setup of Cloudfront distributions, Route53 domain records, and CI/CD on Circle CI for development and production environments. Contributed to the Node/Express API built using Serverless, AWS Lambda, and DynamoDb.
+Built new e-commerce React web app, involved in setup of Cloudfront distributions, Route53 domain records, and CI/CD on Circle CI for development and production environments. Contributed to the Node/Express API built using Serverless, AWS Lambda, and DynamoDb.
 
 Completed build of the Payright Developer Portal, a React + Next.js web app deployed on Vercel. This included passwordless authentication using Firebase, and handling of API tokens for development and production environments across multiple geographic regions.
 
