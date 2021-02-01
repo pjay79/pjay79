@@ -21,29 +21,27 @@ Interested in Digital Health, Fintech, Cyber-Security, Cloud Computing, DevOps, 
 
 ### Payright: October 2020 - Present
 
-Payright is an Australian payment plan provider developed for merchants to accelerate return-on-effort and for making things more affordable to consumers, by spreading the cost of purchases over time. 
+Payright is a publicly listed Australian financial payment plan provider. Senior Full Stack Developer working on new consumer technology platforms using TypeScript, React, Node, and AWS.
 
-Senior Full Stack Developer working on new consumer technology platforms using TypeScript, React, Node, and AWS.
+Built new e-commerce React web app, involved in setup of CloudFront distributions, Route 53 DNS records, and CI/CD on Circle CI. Contributed to the Node/Express API built using Serverless, API Gateway, AWS Lambda, and DynamoDb.
 
-Built new e-commerce React web app, involved in setup of Cloudfront distributions, Route53 domain records, and CI/CD on Circle CI for development and production environments. Contributed to the Node/Express API built using Serverless, AWS Lambda, and DynamoDb.
+Completed build of the Payright Developer Portal, a React + Next.js web app deployed on Vercel. This included passwordless authentication using Firebase, and handling of API tokens across multiple geographic regions.
 
-Completed build of the Payright Developer Portal, a React + Next.js web app deployed on Vercel. This included passwordless authentication using Firebase, and handling of API tokens for development and production environments across multiple geographic regions.
+Lead Full Stack Developer on Payright pilot web app. Engaged with multiple company stakeholders including Project Manager, Head of Partnerships, Head of Marketing, Senior Finance Manager, and Compliance/Legal Officers.
 
-Lead Full Stack Developer on Payright pilot web app. Engaged with multiple company stakeholders including Project Manager, Head of Partnerships, Head of Marketing, Senior Finance Manager, and Compliance/Legal Officers. Liased with 3rd party vendor to obtain access to external API and completed associated certification for API access. Project delivered without delay on planned launch date.
-
-Completed audit and review of AWS architecture and provided recommendations on following best practices. Setup AWS Client VPN with VPC peering and developer access using authentication keys. 
+Completed audit and review of AWS architecture and provided recommendations on following best practices. Setup AWS Client VPN with VPC peering and developer access using authentication keys.
 
 ### Ward6 Australia: May 2020 - October 2020
 
-Ward6 is an independent healthcare communications agency working with NGOs, retailers, pharmaceutical and biotechnology companies.
+Ward6 is an independent healthcare communications agency working with NGOs, retailers, pharmaceutical and biotechnology companies. Lead Full Stack Developer on a short-term contract.
 
-Worked as the Lead Full Stack Developer. Built a React web app called Wellbean for global biotechnology company Amgen, including the backend API with Node.js/Express and Docker.
+Built a React web app called Wellbean for global biotechnology company Amgen, including backend API with Node/Express and Docker. Utilized AWS cloud infrastructure (S3, CloudFront, Lambda@Edge, DynamboDb, Cognito, ECS Fargate & ECR, SSM, SES, ACM & WAF).  Created Node based command line tools to allow formatting of spreadsheet data and improve developer velocity.
 
-Utilized AWS cloud infrastructure (S3, CloudFront, Signed Cookies, Lambda@Edge, DynamboDb, Cognito, Application Load Balancer, ECS Fargate, Systems Manager, Route53, SES, ACM, WAF). Created Node.js based command line tools to improve developer velocity.
+Responsible for delivering the project successfully to a deadline and ensuring that security requirements were met. Engaged in client meetings with Amgen to communicate progress on deliverables and advise on solution architecture. Assisted Ward6 in scoping out new features and providing estimates on time required to complete.
 
-Responsible for delivering the project successfully to a deadline and ensuring that security requirements were met. Engaged in client meetings with Amgen to communicate progress on deliverables and advise on Solution Architecture. Assisted Ward6 in scoping out new features.
+Provided extensive developer documentation including how to setup the development environment, deploy, and maintain the entire project. Documented all remediations completed as part of Amgen's penetration testing report and findings. 
 
-Completed developer documentation on how to setup environments, deploy, and maintain the entire project. Documented all remediations completed as part of Amgen's penetration testing report and findings. Assisted with onboarding of new developers.
+Assisted with on-boarding and handover to new developers.
 
 ### MedApps: Apr 2019 - March 2019
 
