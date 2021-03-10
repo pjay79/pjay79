@@ -21,13 +21,13 @@ Interested in Digital Health, Fintech, Cyber-Security, Cloud Computing, DevOps, 
 
 ### Payright: October 2020 - Present
 
-Payright is a publicly listed Australian financial payment plan provider. Senior Full Stack Developer working on new consumer technology platforms using TypeScript, React, Node, and AWS.
+Payright is a publicly listed Australian financial payment plan provider. Senior Full Stack Developer working on new consumer technology platforms using TypeScript, React, React Native, Node, and AWS. Also using Redux Toolkit and Styled Components throughout.
 
-Built new e-commerce React web app, involved in setup of CloudFront distributions, Route 53 DNS records, and CI/CD on Circle CI. Contributed to the Node/Express API built using Serverless, API Gateway, AWS Lambda, and DynamoDb.
+Built new payment platform React web app, involved in setup of CloudFront distributions, Route 53 DNS records, and CI/CD on Circle CI. Contributed to the serverless Node/Express API built behind API Gateway,AWSLambda,andDynamoDb. Also developed dynamic Payright payment button widget for Shopify e-commerce merchants using Preact with an associated serverless Node/Express API for creating Payright checkouts and Shopify orders.
 
-Completed build of the Payright Developer Portal, a React + Next.js web app deployed on Vercel. This included passwordless authentication using Firebase, and handling of API tokens across multiple geographic regions.
+Completed build of the Payright Developer Portal, a React + Next.js web app deployed on Vercel. This included passwordless authentication using Firebase, and handling of API tokens across multiple geographic regions. Contributed to the customer app built with React Native and Expo.
 
-Lead Full Stack Developer on Payright pilot web app. Engaged with multiple company stakeholders including Project Manager, Head of Partnerships, Head of Marketing, Senior Finance Manager, and Compliance/Legal Officers.
+Lead Full Stack Developer on Payright pilot web app. Engaged with multiple company stakeholders including Project Manager, Head of Partnerships, Head of Marketing, Senior Finance Manager, and Compliance/Legal Off icers.
 
 Completed audit and review of AWS architecture and provided recommendations on following best practices. Setup AWS Client VPN with VPC peering and developer access using authentication keys.
 
