@@ -23,11 +23,11 @@ Interested in Digital Health, Fintech, Cyber-Security, Cloud Computing, DevOps, 
 
 Payright is a publicly listed Australian financial payment plan provider. Senior Full Stack Developer working on new consumer technology platforms using TypeScript, React, React Native, Node, and AWS. Also using Redux Toolkit and Styled Components throughout.
 
-Built new payment platform React web app, involved in setup of CloudFront distributions, Route 53 DNS records, and CI/CD on Circle CI. Contributed to the serverless Node/Express API built behind API Gateway, AWS Lambda,and DynamoDb. Also developed dynamic Payright payment button widget for Shopify e-commerce merchants using Preact with an associated serverless Node/Express API for creating Payright checkouts and Shopify orders.
+Built new payment platform React web app, involved in setup of CloudFront distributions, Route 53 DNS records, and CI/CD on Circle CI. Contributed to the serverless Node/Express API built behind API Gateway, AWSLambda, and DynamoDb. Also developed dynamic Payright payment button widget for Shopify e-commerce merchants using Preact with an associated serverless Node/Express API for creating Payright checkouts and Shopify orders.
 
-Completed build of the Payright Developer Portal, a React + Next.js web app deployed on Vercel. This included passwordless authentication using Firebase, and handling of API tokens across multiple geographic regions. Contributed to the customer app built with React Native and Expo.
+Completed build of the Payright Developer Portal, a React + Next.js web app deployed on Vercel. This included passwordless authentication using Firebase, and handling of API tokens across multiple geographic regions. Lead Full Stack Developer on Payright Bills Smoothing React + Next.js web app.
 
-Lead Full Stack Developer on Payright pilot web app. Engaged with multiple company stakeholders including Project Manager, Head of Partnerships, Head of Marketing, Senior Finance Manager, and Compliance/Legal Off icers.
+Contributed to the build of the Payright React Native mobile app. Setup multi-environment versions of the app, including leading the architecture of the deployment pipelines and workflows for over the air updates as well as app versioning. Used the Expo platform's "Bare Workflow". Managed production releases to App Store and Google Play Store.
 
 Completed audit and review of AWS architecture and provided recommendations on following best practices. Setup AWS Client VPN with VPC peering and developer access using authentication keys.
 
