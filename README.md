@@ -2,7 +2,9 @@
 
 ### Bio
 
-Software Engineer building Web and Mobile applications across the Full Stack. Specializing in JavaScript, TypeScript, React, React Native, Node, and AWS. Experienced as a Lead Developer on multiple projects. 3x AWS Certified. AWS Community Builder at Amazon Web Services. Self-taught generalist with curiosity for continuous learning. Available for hire for Cloud Consulting.
+Software Engineer building Web and Mobile applications across the Full Stack. Specialising in TypeScript, React, React Native, and Node. AWS Community Builder at Amazon Web Services. 
+
+Experienced as a Lead Developer on multiple projects whilst working in Startup and Agency environments. Interested in Digital Health, FinTech, DevOps, and Solution Architecture.. Self-taught generalist with curiosity for continuous learning. Available for hire for Cloud Consulting.
 
 ![pjay79's github stats](https://github-readme-stats.vercel.app/api?username=pjay79&show_icons=true&theme=cobalt)
 
