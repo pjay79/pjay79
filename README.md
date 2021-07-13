@@ -31,7 +31,7 @@ Completed build of the Payright Developer Portal, a React + Next.js web app depl
 
 Contributed to the build of the Payright React Native mobile app. Setup multi-environment versions of the app, including leading the architecture of the deployment pipelines. Used the Expo platform's "Bare Workflow". Managed production releases to App Store and Google Play Store.
 
-Completed audit and review of AWS architecture and provided recommendations on following best practices. Setup AWS Client VPN with VPC peering and developer access using authentication keys. Setup AWS Quicksight connection to database to facilitate business analysis and reporting.
+Completed audit and review of AWS architecture and provided recommendations on following best practices. Setup AWS Client VPN with VPC peering and developer access using authentication keys. Setup AWS Quicksight connection to database to facilitate business analysis and reporting. Setup AWS Managed STFP Server for sharing data to external agencies for the purpose of credit reporting.
 
 ### Ward6 Australia: May 2020 - October 2020
 
