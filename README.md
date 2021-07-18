@@ -11,7 +11,7 @@ Self-taught generalist with curiosity for continuous learning. 3x AWS Certified,
 ![pjay79's github stats](https://github-readme-stats.vercel.app/api?username=pjay79&show_icons=true&theme=cobalt)
 
 - 🔭 I’m currently working on a React Native mobile app for Payright
-- 🌱 I’m currently learning about CyberSecurity and Penetration Testing
+- 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on stuff that is interesting in the Digital Health or FinTech space
 - 💬 Ask me about AWS Cloud Certifications
 - 📫 How to reach me: Email, Twitter DM, LinkedIn
