@@ -6,7 +6,7 @@ Software Engineer building Web and Mobile applications across the Full Stack. Sp
 
 Experienced as a Lead Developer on multiple projects whilst working in Startup, Agency, and Enterprise environments.  Interested in Digital Health, FinTech, DevOps, and Solution Architecture. 
 
-Self-taught generalist with curiosity for continuous learning. 3x AWS Certified, available for hire for Cloud Consulting.
+Self-taught generalist with curiosity for continuous learning. 3x AWS Certified.
 
 ![pjay79's github stats](https://github-readme-stats.vercel.app/api?username=pjay79&show_icons=true&theme=cobalt)
 
