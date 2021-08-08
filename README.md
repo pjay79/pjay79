@@ -2,7 +2,7 @@
 
 ### Bio
 
-Software Engineer building Web and Mobile applications across the Full Stack. Specialising in TypeScript, React, React Native, and Node.
+Senior Software Engineer building Web and Mobile applications across the Full Stack. Specialising in TypeScript, React, React Native, and Node.
 
 Experienced as a Lead Developer on multiple projects whilst working in Startup, Agency, and Enterprise environments.  Interested in Digital Health, FinTech, DevOps, and Solution Architecture. 
 
