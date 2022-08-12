@@ -21,15 +21,46 @@ Self-taught generalist with curiosity for continuous learning. 3x AWS Certified.
 
 ### Payright: October 2020 - Present
 
-Payright is a publicly listed Australian financial payment plan provider. Employed as a Senior Full Stack Developer. Working primarily with TypeScript, React, React Native, Redux Toolkit, Node, and AWS. Also utilised popular form libraries such as React Hook Form and Formik. Also managed 4 other developers, including a new graduate, junior developer, and a remote team based in Indonesia consisting of a mid-level and senior developer.
+Payright is a publicly listed Australian financial payment plan provider. Employed as a Senior Full Stack
+Developer. Working primarily with TypeScript, React, React Native, Redux, Node, and AWS.
 
-Built React web app for eCommerce customer payments. Involved in setup of Route53 DNS records, CloudFront and S3 setup for static content, and CI/CD on CircleCI. Contributed to the Serverless Node/Express API built behind API Gateway, AWS Lambda, and DynamoDb. Also developed dynamic Payright payment button widget as a Proof of Concept for Shopify Plus eCommerce merchants using Preact, with an associated Serverless Node/Express API for creating Payright payment plans associated with Shopify orders. Integrated Shopify Webhook for activation of payment plans on successful fulfillment of Shopify orders. Completed build of the Payright Developer Portal, a React + Next.js web app deployed on Vercel. This included passwordless authentication using Firebase, and handling of developer API tokens across multiple geographic regions. 
+Built React eCommerce web portal payment gateway. Involved in setup of Route53 DNS records, CloudFront
+and S3 setup for static content, and CI/CD on CircleCI. Contributed to the Node/Express API built using
+serverless architecture (API Gateway, AWS Lambda, and DynamoDb). 
 
-Lead Full Stack Developer on the Payright Bills Smoothing React web app. Engaged in project development and progress meetings with internal team consisting of various departmental heads from Partnerships, Marketing, Finance, and Legal. Completed 3rd party BPAY certification for production access to the BPAY API for validating Biller Code and Reference numbers. Setup solution for uploading of documents onto S3 with access to Operations team via automated emails using SES with S3 Pre-Signed URL's. Delivered the project succesfully to Pilot stage on schedule and onboarded other developers onto the project as contributors. Led the production deployment. 
+Completed build of the Payright Developer Portal, a React + Next.js web portal deployed on Vercel. This included
+password-less authentication using Firebase, handling of developer API tokens across multiple geographic
+regions, and setup of architecture to enable production API permissions for external developers.
+Lead developer on React web portal for bill payments. Completed setup and integration with external BPAY API.
+Setup solution for uploading of bill documents onto S3 with access to Operations team via automated emails
+using SES with S3 Pre-Signed URL's. On-boarded other developers onto the project and led the production
+release.
 
-Contributed to the build of the Payright React Native mobile app. Setup multi-environment versions of the app for Develop, UAT, and Production. Used the Expo platform's "Bare Workflow". Also utilised Expo Application Services to facilitate automated app builds and deployment via CircleCI. Created branching and release strategy for the mobile team. Managed production releases to App Store and Google Play Store as well as over-the-air updates. Invovled in setup of Firebase projects for handling authentication. Contributed to the Node/Express API running behind API Gateway, Lambda, and DynamoDb. Contributed to various new features, bug fixes, and hot fixes. Assisted other members of the team with setting up local development environments and debugging. Assisted other members with handling production deployments. 
+Lead developer on a custom payment integration into the Shopify Plus eCommerce backend. Created a payment
+button widget using Preact that is embedded into the Shopify Plus checkout page, calculates repayments,
+and allows creation of payment plans via the Payright eCommerce payment gateway. Built the serverless
+Node/Express API that handles Shopify order creation and updates, webhooks, and HMAC authentication.
+Led the production release.
 
-Completed audit and review of AWS architecture and provided recommendations on following best practices based on the Well Architected Framework principles. Setup AWS Client VPN with VPC peering between default VPC and an additional VPC in the same region, including developer access using authentication keys. Setup AWS Quicksight connection to a Production RDS Aurora Read Replica database to facilitate business analysis and reporting. Setup AWS Managed STFP Server for sharing data to external agencies for the purpose of credit reporting, including setting up access for testing and production, setting up S3 bucket policies, and IAM roles and permissions. Set up multi-account structure using AWS Control Tower including Single Sign-On with Microsoft Azure AD.
+Contributed to the build of the Payright React Native mobile app. Setup multi-environment versions of the app
+for Develop, UAT, and Production. Used the Expo platform's "Bare Workflow". Setup automated app builds
+and deployments via CircleCI. Created branching and release strategy for the mobile team. Managed production
+releases to App Store and Google Play Store as well as over-the-air updates. Involved in building out various new
+features including anti-fraud detection service integration, and the Payright Mastercard.
+
+Completed AWS Well Architected Review of main workloads. Setup AWS Client VPN, and VPC peering. Setup
+AWS Quicksight connection to a Production RDS MySQL Read Replica database to facilitate business analysis
+and reporting. Setup AWS Managed STFP Server for sharing data to external agencies for the purpose of credit
+reporting. 
+
+Completed multi-account setup on AWS using Control Tower with SSO using Microsoft Azure AD. Developed
+data lake strategy to be built around S3, Glue, Glue Data Catalog, Lake Formation. Set up real-time notification
+system using AWS Database Migration Service, Kinesis, Lambda, and EventBridge. IaaC using Serverless,
+Serverless Stack, and AWS CDK. Developed plan for modernising existing backend workflows using AWS Step
+Functions.
+
+Promoted to Lead Developer and also managed a team of 4, including 2 local junior developers, and 1 mid-level
+and 1 senior developer both based in Indonesia. 
 
 ### Ward6 Australia: May 2020 - October 2020
 
