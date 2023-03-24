@@ -20,7 +20,7 @@ Self-taught generalist with curiosity for continuous learning. 3x AWS Certified.
 ### Recent Experience:
 
 ### Cochlear: October 2022 - Present
-i
+
 ### Payright: October 2020 - October 2022
 
 Payright is a publicly listed Australian financial payment plan provider. Employed as a Senior Full Stack
